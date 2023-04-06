@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=VeraKulemina)
 # Hi, my name is Vera 
 ## I'm a software engineer.
-### I'm polishing my knowledge in Javascript and React.js by creating my Portfolio website
+### I'm polishing my knowledge in Javascript and React.js by creating my Portfolio website.
 
 **my Email : verakulemina@gmail.com**
 

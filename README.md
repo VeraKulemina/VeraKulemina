@@ -18,6 +18,9 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Postman]([https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white]
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VeraKulemina)
 
